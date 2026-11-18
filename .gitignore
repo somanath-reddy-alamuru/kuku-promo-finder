@@ -1,0 +1,36 @@
+# Confidential screenplay inputs and uploads
+input_pack/
+*.zip
+episode-*.txt
+
+# Generated runs, raw model prompts/responses and local caches
+outputs/
+outputs*/
+raw_outputs/
+llm_calls/
+cache/
+.cache/
+.tmp/
+comparison/
+gold.csv
+
+# Secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Python and test artefacts
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build and OS artefacts
+build/
+dist/
+*.egg-info/
+.DS_Store
+Thumbs.db

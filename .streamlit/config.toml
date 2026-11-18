@@ -1,0 +1,15 @@
+[theme]
+base = "light"
+primaryColor = "#be185d"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f6f3f7"
+textColor = "#1f1630"
+font = "sans serif"
+
+[server]
+headless = true
+maxUploadSize = 50          # MB; the app also caps files and total size itself
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false

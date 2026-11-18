@@ -1,0 +1,125 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: (Invented demo, not Kuku content.) A baker learns her sister forged her signature to hand the shop to a rival, then a man she thought was dead appears at the door.
+CONTINUITY NOTES: Demo episode written only to show the input format.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. BAKERY - NIGHT
+Scene start: 00:00.00
+Scene end: 00:41.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:03.00)
+Wide shot of a rain-soaked bakery at night, lights still on.
+
+**ACTION:**
+Start: (00:00.50) | End: (00:03.00)
+Mira wipes flour from the counter, alone.
+
+**CAMERA:**
+Start: (00:03.00) | End: (00:07.50)
+The door bursts open. Close-up on Mira's startled face.
+
+**VICTOR (Cold, Threatening):**
+Start: (00:03.40) | End: (00:06.80)
+"You signed the shop over to me. Or did you forget?"
+
+**CAMERA:**
+Start: (00:07.50) | End: (00:11.00)
+Over-the-shoulder shot of Victor dropping a contract on the counter.
+
+**MIRA (Shocked):**
+Start: (00:07.80) | End: (00:10.20)
+"That is not my signature!"
+
+**CAMERA:**
+Start: (00:11.00) | End: (00:16.00)
+Medium two-shot as Victor leans in.
+
+**VICTOR (Mocking):**
+Start: (00:11.30) | End: (00:15.40)
+"Your own sister forged it for me. She sends her love."
+
+**CAMERA:**
+Start: (00:16.00) | End: (00:20.50)
+Close-up on Mira, tears welling.
+
+**MIRA (Heartbroken, Whispering):**
+Start: (00:16.50) | End: (00:19.60)
+"Lena would never betray me..."
+
+**CAMERA:**
+Start: (00:20.50) | End: (00:26.00)
+Wide shot as Lena steps out from behind Victor, holding the shop keys.
+
+**LENA (Smug):**
+Start: (00:21.00) | End: (00:25.20)
+"Would I not? You always had everything, Mira. Not anymore."
+
+**CAMERA:**
+Start: (00:26.00) | End: (00:31.00)
+Close-up on Mira's hands gripping the counter.
+
+**MIRA (Furious):**
+Start: (00:26.40) | End: (00:30.50)
+"Get out of my bakery. Both of you!"
+
+**CAMERA:**
+Start: (00:31.00) | End: (00:36.50)
+Medium shot of Victor laughing, tossing a lighter in his hand.
+
+**VICTOR (Threatening):**
+Start: (00:31.40) | End: (00:35.80)
+"Your bakery? By morning there will be nothing left of it."
+
+**CAMERA:**
+Start: (00:36.50) | End: (00:41.00)
+Extreme close-up on the lighter's flame.
+
+**SOUND FX:**
+Start: (00:36.50) | End: (00:41.00)
+A tense, ominous drone swells.
+
+SCENE 02
+Scene heading: EXT. BAKERY - NIGHT
+Scene start: 00:41.00
+Scene end: 00:58.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:41.00) | End: (00:45.00)
+Exterior. A black car pulls up in the rain.
+
+**ACTION:**
+Start: (00:41.50) | End: (00:45.00)
+A tall stranger in a long coat steps out and walks to the bakery door.
+
+**CAMERA:**
+Start: (00:45.00) | End: (00:50.00)
+Close-up on Mira as she sees him through the glass and freezes.
+
+**MIRA (Stunned):**
+Start: (00:45.60) | End: (00:48.40)
+"You... you are supposed to be dead."
+
+**CAMERA:**
+Start: (00:50.00) | End: (00:55.00)
+Low-angle shot of the stranger, water dripping from his hat.
+
+**THE STRANGER (Calm):**
+Start: (00:50.40) | End: (00:54.60)
+"Who told you that, Mira? Your sister?"
+
+**CAMERA:**
+Start: (00:55.00) | End: (00:58.00)
+Cut to black.
+
+**SOUND FX:**
+Start: (00:54.60) | End: (00:58.00)
+Sharp sting into silence. Cliffhanger.
+
+--- SCRIPT END ---
