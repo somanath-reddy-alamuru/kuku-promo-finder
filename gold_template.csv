@@ -1,0 +1,5 @@
+# Your own hand-picked promos. One row per promo you would cut, BEFORE looking at the tool's output.
+# start and end in the script's mm:ss.ff format. Lines starting with # are ignored.
+# Example (delete the # to use it):
+# 1,00:11.00,00:41.50,turn around at the altar - he is marrying her sister
+episode,start,end,note
